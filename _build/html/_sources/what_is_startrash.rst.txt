@@ -18,7 +18,6 @@ Here's another subsection
     this is so freakin easy
 
 .. rubric:: Because I can
--------------
 
 this shouldn't show up
     not in the toc at least
@@ -27,7 +26,7 @@ Because no one can stop me
 --------------------------
 
 lorem ipsum
-    dolor eset
+    `link to robotgeek <http://www.robotgeek.com>`
 
 taco bell
     kickflip sandwich
