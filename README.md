@@ -1,0 +1,3 @@
+# wadecore.github.io
+
+hellogozaimasu
