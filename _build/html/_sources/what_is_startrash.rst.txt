@@ -28,9 +28,7 @@ Because no one can stop me
 --------------------------
 
 lorem ipsum
-    `link to robotgeek <http://www.robotgeek.com>`_
-
-taco bell
+    so I can put this `link to robotgeek <http://www.robotgeek.com>`_ in the middle of a bunch of text and say taco bell
 .. note::
     kickflip sandwich
 

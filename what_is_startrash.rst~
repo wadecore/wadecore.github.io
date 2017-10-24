@@ -20,15 +20,18 @@ Here's another subsection
 .. rubric:: Because I can
 
 this shouldn't show up
+
+.. warning::
     not in the toc at least
 
 Because no one can stop me
 --------------------------
 
 lorem ipsum
-    `link to robotgeek <http://www.robotgeek.com>`
+    `link to robotgeek <http://www.robotgeek.com>`_
 
 taco bell
+.. note::
     kickflip sandwich
 
 Because it makes up for things I lost
