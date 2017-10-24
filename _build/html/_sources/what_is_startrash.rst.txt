@@ -17,11 +17,11 @@ Here's another subsection
 
     this is so freakin easy
 
-Because I can
+.. rubric:: Because I can
 -------------
 
-to feel your tug at my soul
-    fail and live long
+this shouldn't show up
+    not in the toc at least
 
 Because no one can stop me
 --------------------------
