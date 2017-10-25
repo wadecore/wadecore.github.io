@@ -65,7 +65,7 @@ Images
 
   You can point directly at the image easy peasy
 .. image:: http://i0.kym-cdn.com/photos/images/original/000/616/992/4d2.png
-
+  (width=100)
 
 Code Samples
 
