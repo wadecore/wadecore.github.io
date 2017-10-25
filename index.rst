@@ -9,16 +9,10 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-   what_is_startrash.rst
-   tutorials.rst
-   glossary.rst
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   what_is_this.rst
+   setup.rst
+   linux_ref.rst
+   sphinx_ref.rst
+   git_ref.rst
+   rtd_ref.rst
