@@ -65,11 +65,11 @@ Images
 
   You can point directly at the image easy peasy
 .. image:: http://i0.kym-cdn.com/photos/images/original/000/616/992/4d2.png
-  is this an alt
 
 
 Code Samples
-  to show a whole block of code, you just put colon colon after this and indent the lines of the code one more level to follow::
+
+  Apparently this doesn't work very well, but to show a whole block of code, you just put colon colon after this and indent the lines of the code one more level to follow::
     #define arsehouse 0;
     #define hamshack 1;
 
@@ -84,7 +84,7 @@ Code Samples
       //some nonsense involving a hamshack and an arsehouse, I suppose;
     }
 
-just drop back a level to return to your regularly scheduled text
+just drop back a level to return to your regularly scheduled text. maybe we should just link to the github for code like we usually do.
 
 .. you can also comment out things so that the front end doesn't see them at all
 
