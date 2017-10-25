@@ -5,7 +5,6 @@ This text will not appear bold even without indentation because it is directly f
 
 Subsection about text
 --------------------
-  this showed up blue, I wonder what will happen to this
 
 This text will appear in bold unless you indent it. this operates as a form of header
     Indented paragraphs will appear as normal, unbolded text unless a markup has been applied
@@ -26,6 +25,7 @@ dot dot markup type colon colon
 Lists
 -----
 
+hey take a look at this bulleted list
 * bulleted lists use your
 * indentations to decide
   * what level the information
@@ -36,9 +36,11 @@ Lists
       * deeper
         * and deeper
 
+how about this numbered list
 1. you can make numbered lists
 2. manually
 
+or this one
 #. or you can make them
 #. automatically
 
@@ -61,17 +63,15 @@ Links
 Images
   You're just gonna have to get a load of this:
 
-  You can point directly at the image
+  You can point directly at the image easy peasy
 .. image:: http://i0.kym-cdn.com/photos/images/original/000/616/992/4d2.png
-
-
-.. image:: http://i0.kym-cdn.com/photos/images/original/000/616/992/4d2.*
+  is this an alt
 
 
 Code Samples
   to show a whole block of code, you just put colon colon after this and indent the lines of the code one more level to follow::
-    #define arsehouse 0
-    #define hamshack 1
+    #define arsehouse 0;
+    #define hamshack 1;
 
     setup()
     {
