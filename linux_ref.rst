@@ -20,3 +20,17 @@ Since you're already looking at a terminal window and want to stay on track, it'
 
 * ``mkdir directory_name`` this makes an empty folder in your present working directory called directory_name
 * ``rm -rf directory_name`` this forcefully deletes a folder in your present working directory called directory_name and all of its contents
+
+Using Sphinx
+------------
+
+Wade is probably the only person who will need to look at this section, but it's here for reference anyway
+
+Install backend
+#. ``apt-get install pip``
+#. ``sudo pip install Sphinx``
+#. ``sudo pip install sphinx_rtd_theme``
+
+Start a new template
+#. ``sphinx-quickstart``
+#. Edit conf.py ``html_theme = 'sphinx_rtd_theme'``

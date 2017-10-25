@@ -1,5 +1,5 @@
-Formatting in Sphinx
-====================
+Formatting for Sphinx
+=====================
 
 This text will not appear bold even without indentation because it is directly following the main header. This is used for the main description of all that is to follow.
 
