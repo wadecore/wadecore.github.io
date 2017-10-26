@@ -14,16 +14,35 @@ This text will appear in bold unless you indent it. this operates as a form of h
 dot dot markup type colon colon
 -------------------------------
 
-.. rubric:: This is a header that won't appear in the table of contents but can be used to point to sections in markup
+.. attention::
+    indent the text so that it appears in the box
+
+.. caution::
+    indent the text so that it appears in the box
+
+.. danger::
+    indent the text so that it appears in the box
 
 .. error::
-    indent the text so that it appears in the error box after using the error markup
+    indent the text so that it appears in the box
 
-.. warning::
-    indent the text so that it appears in the warning box after using the warning markup
+.. hint::
+    indent the text so that it appears in the box
+
+.. important::
+    indent the text so that it appears in the box
 
 .. note::
-    indent the text so that it appears in the note box after using the note markup
+    indent the text so that it appears in the box
+
+.. tip::
+    indent the text so that it appears in the box
+
+.. warning::
+    indent the text so that it appears in the box
+
+.. admonition::
+    indent the text so that it appears in the box
 
 Lists
 -----
