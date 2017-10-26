@@ -141,3 +141,15 @@ Tables
   False  True   False
   True   True   True
   =====  =====  =======
+
+Raw Embeds
+----------
+
+.. raw:: html
+   <hr>
+   
+.. raw:: html
+   :file: inclusion.html
+   
+.. raw:: html
+   :url: http://www.google.com
