@@ -165,6 +165,11 @@ Embed entire Page (Youtube Video)
 .. raw:: html
    :url: http://www.trossenrobotics.com/Shared/readthedocs/videoembed.html
 
+Embed Entire Page (GitHub Code)
+
+.. raw:: html
+   :url: https://raw.githubusercontent.com/wadecore/spriteDisplay/master/spriteDisplay.ino
+
 Using REF
 ---------
 
