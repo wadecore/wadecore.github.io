@@ -145,12 +145,6 @@ Tables
 Raw Embeds
 ----------
 
-Embed direct HTML
-
-.. raw:: html
-
-   <hr width=50 size=10>
-
 Embed file (not working?)
 
 .. raw:: html
