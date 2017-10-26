@@ -145,7 +145,7 @@ Tables
 Raw Embeds
 ----------
 
-Embed file (not working?)
+Embed file (put a broken embed file before embedding a page to prevent tree stacking)
 
 .. raw:: html
    :file: inclusion.html
