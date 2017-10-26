@@ -164,3 +164,11 @@ Embed entire Page (Youtube Video)
 
 .. raw:: html
    :url: http://www.trossenrobotics.com/Shared/readthedocs/videoembed.html
+
+Using REF
+---------
+
+For downloads:
+See :download:`a github master zip for this repo <https://github.com/wadecore/wadecore.github.io/archive/master.zip>`.
+
+
