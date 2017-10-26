@@ -146,10 +146,11 @@ Raw Embeds
 ----------
 
 .. raw:: html
-   <hr>
+
+   <hr width=50 size=10>
    
 .. raw:: html
    :file: inclusion.html
    
 .. raw:: html
-   :url: http://www.google.com
+   :url: http://learn.robotgeek.com
