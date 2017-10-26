@@ -145,12 +145,28 @@ Tables
 Raw Embeds
 ----------
 
+Embed direct HTML
+
 .. raw:: html
 
    <hr width=50 size=10>
-   
+
+Embed file (not working?)
+
 .. raw:: html
    :file: inclusion.html
-   
+
+Embed entire Page (Fusion360)
+
 .. raw:: html
-   :url: http://learn.robotgeek.com
+   :url: http://www.trossenrobotics.com/Shared/readthedocs/a360embed.html
+
+Embed entire Page (SketchFab)
+
+.. raw:: html
+   :url: http://www.trossenrobotics.com/Shared/readthedocs/sketchfabembed.html
+
+Embed entire Page (Youtube Video)
+
+.. raw:: html
+   :url: http://www.trossenrobotics.com/Shared/readthedocs/videoembed.html
