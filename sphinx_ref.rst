@@ -16,6 +16,9 @@ dot dot markup type colon colon
 
 .. rubric:: This is a header that won't appear in the table of contents but can be used to point to sections in markup
 
+.. error::
+    indent the text so that it appears in the error box after using the error markup
+
 .. warning::
     indent the text so that it appears in the warning box after using the warning markup
 
@@ -65,7 +68,7 @@ Images
 
   You can point directly at the image easy peasy
 .. image:: http://i0.kym-cdn.com/photos/images/original/000/616/992/4d2.png
-  (width=100)
+  :width: 300
 
 Code Samples
 
