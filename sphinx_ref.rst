@@ -41,7 +41,7 @@ dot dot markup type colon colon
 .. warning::
     indent the text so that it appears in the box
 
-.. admonition::
+.. admonition:: custom content label
     indent the text so that it appears in the box
 
 Lists
@@ -81,13 +81,19 @@ Links
 .. _shit: http://www.interbotix.com
 .. _out: http://www.github.com
 
+ maybe you want to |pop_link|.
+
+.. |pop_link| raw:: html
+
+   <a href="http://www.readthedocs.org" target="_blank">open a link in a new tab</a>
+
 
 Images
   You're just gonna have to get a load of this:
 
   You can point directly at the image easy peasy
 .. image:: http://i0.kym-cdn.com/photos/images/original/000/616/992/4d2.png
-  :width: 300
+  :width: 500
 
 Code Samples
 
@@ -145,6 +151,8 @@ Tables
 Raw Embeds
 ----------
 
+Raw is a stop-gap for anything not natively supported by the sphinx compiler. We shouldn't use this super often but we're totally going to.
+
 Embed file (put a broken embed file before embedding a page to prevent tree stacking)
 
 .. raw:: html
@@ -169,11 +177,5 @@ Embed entire Page (Youtube Video)
 
 .. raw:: html
    :url: http://www.trossenrobotics.com/Shared/readthedocs/videoembed.html
-
-Using REF
----------
-
-For downloads:
-See :download:`a github master zip for this repo <https://github.com/wadecore/wadecore.github.io/archive/master.zip>`.
 
 
