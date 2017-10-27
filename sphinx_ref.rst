@@ -163,10 +163,11 @@ Embed file (put a broken embed file before embedding a page to prevent tree stac
 .. raw:: html
    :file: inclusion.html
 
-Embed Entire Page (GitHub Code [looks gross])
+Embed Entire Page (GitHub Code [GIST])
 
 .. raw:: html
-   :url: http://github.com/wadecore/GeekBeer/blob/master/GeekBeer-Refrigerator/GeekBeer-Refrigerator.ino
+   
+   <script src="https://gist.github.com/kroger/3856749.js"></script>
 
 Embed entire Page (Fusion360)
 
