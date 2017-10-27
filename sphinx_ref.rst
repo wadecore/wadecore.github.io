@@ -163,10 +163,10 @@ Embed file (put a broken embed file before embedding a page to prevent tree stac
 .. raw:: html
    :file: inclusion.html
 
-Embed Entire Page (GitHub Code)
+Embed Entire Page (GitHub Code [looks gross])
 
 .. raw:: html
-   :url: https://raw.githubusercontent.com/wadecore/spriteDisplay/master/spriteDisplay.ino
+   :url: http://github.com/wadecore/GeekBeer/blob/master/GeekBeer-Refrigerator/GeekBeer-Refrigerator.ino
 
 Embed entire Page (Fusion360)
 
