@@ -64,12 +64,12 @@ hey take a look at this bulleted list
                   * go
 
 how about this numbered list
-1. you can make numbered lists
-2. manually
+ 1. you can make numbered lists
+ 2. manually
 
 or this one
-#. or you can make them
-#. automatically
+ #. or you can make them
+ #. automatically
 
 
 
