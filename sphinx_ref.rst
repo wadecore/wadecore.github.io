@@ -41,7 +41,7 @@ dot dot markup type colon colon
 .. warning::
     indent the text so that it appears in the box
 
-.. admonition:: custom content label
+.. admonition::
     indent the text so that it appears in the box
 
 Lists
@@ -163,7 +163,7 @@ Embed file (put a broken embed file before embedding a page to prevent tree stac
 .. raw:: html
    :file: inclusion.html
 
-Embed Entire Page (GitHub Code [GIST])
+Embed with Script (GitHub Code [GIST] **ONLY WORKS FOR SOME SCRIPTS** )
 
 .. raw:: html
    
