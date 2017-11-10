@@ -49,3 +49,33 @@ Link to Readthedocs
  1. Import a Project
  2. Find on list populated from github
  3. Clone the repo to a work computer and work on that shit
+
+ROS Notes
+---------
+
+Linux in general
+^^^^^^^^^^^^^^^^
+
+ In Bash Terminal, *source* is used to point to a list of commands that you want to use in the text environment.
+
+ Tab autocomplete also allows you to look at the list of possible commands you can use based on context if you tab twice quickly.
+
+ROS File Structure
+^^^^^^^^^^^^^^^^^^
+
+ *Nodes* are the black boxes that act like libraries would in the arduino world. Nodes talk to each other through the use of *Topics*. Topics are a class that holds data accessible to other Nodes. Nodes publish data to topics, and can also subscribe to topics that hold data. Multiple nodes can publish to and subscribe to the same topic.
+ 
+ * rosnode list - list running nodes
+ * rosnode info /some_node - detailed information about the node, including what topics the node is subscribing/publishing to
+ * rostopic list - list of running topics
+ * rostopic info /some_topic - all the nodes publishing/subscribed to topic
+ * rostopic echo /some_topic - print data running on that topic
+ * rostopic pub /some_topic msg/MessageType "data: value" - send a message on the topic including data formatted in yaml
+ 
+ ros master keeps track of meta information, telling the subscribers about publishers
+ 
+Navigating ROS
+^^^^^^^^^^^^^^
+
+ * roscd package_name - navigate to the working directory of a package
+ * rosls package_name - list contents of package's folder
